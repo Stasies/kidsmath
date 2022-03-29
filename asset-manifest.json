@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kidsmath/static/css/main.ff79f10d.css",
+    "main.js": "/kidsmath/static/js/main.e3166dc8.js",
+    "static/media/sad.png": "/kidsmath/static/media/sad.9157af7e6d475dffe0f0.png",
+    "static/media/anger.png": "/kidsmath/static/media/anger.71b905fafdbc07885fc6.png",
+    "static/media/joy.png": "/kidsmath/static/media/joy.2fe08c5efa26f4874ba0.png",
+    "index.html": "/kidsmath/index.html",
+    "main.ff79f10d.css.map": "/kidsmath/static/css/main.ff79f10d.css.map",
+    "main.e3166dc8.js.map": "/kidsmath/static/js/main.e3166dc8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff79f10d.css",
+    "static/js/main.e3166dc8.js"
+  ]
+}
